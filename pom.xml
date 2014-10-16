@@ -3,7 +3,7 @@
   <groupId>com.baji.app</groupId>
   <artifactId>maven-release-test2</artifactId>
   <packaging>jar</packaging>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
   <name>maven-release-test2</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -17,7 +17,7 @@
   
 	<scm>
 		<developerConnection>scm:git:https://github.com/BajiResearch/maven-release-test2.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>maven-release-test2-1.4</tag>
   </scm>
   
 	<distributionManagement>
